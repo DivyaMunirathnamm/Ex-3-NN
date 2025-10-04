@@ -1,5 +1,5 @@
 <H3>DIVYA M</H3>
-<H3>212223040043H3>
+<H3>212223040043 <H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: 04-10-2025 </H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
