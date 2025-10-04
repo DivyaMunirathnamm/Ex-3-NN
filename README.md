@@ -98,10 +98,9 @@ predict(w1,w2,test)
 
 # OUTPUT:
 <img width="1289" height="817" alt="image" src="https://github.com/user-attachments/assets/5bcdb458-77b5-4da6-9e2c-6712fe30fe01" />
+<img width="1072" height="460" alt="image" src="https://github.com/user-attachments/assets/37da6201-254a-4fe2-b470-77a0af8fe04d" />
+<img width="1071" height="555" alt="image" src="https://github.com/user-attachments/assets/608cd3fb-5088-46fb-b389-5daf66c3fc6e" />
 
-<img width="1060" height="747" alt="image" src="https://github.com/user-attachments/assets/baa78f00-9cac-4a9e-9376-9050c8ded75f" />
-
-<img width="948" height="512" alt="image" src="https://github.com/user-attachments/assets/37570936-68ee-4512-b6da-089e7be8a5e5" />
 
 
 
