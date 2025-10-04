@@ -101,7 +101,7 @@ predict(w1,w2,test)
 
 <img width="1060" height="747" alt="image" src="https://github.com/user-attachments/assets/baa78f00-9cac-4a9e-9376-9050c8ded75f" />
 
-<img width="1053" height="735" alt="image" src="https://github.com/user-attachments/assets/f2d1dc8a-3e24-4cdc-bf81-4e87dc35e0eb" />
+<img width="948" height="512" alt="image" src="https://github.com/user-attachments/assets/37570936-68ee-4512-b6da-089e7be8a5e5" />
 
 
 
